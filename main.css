@@ -575,7 +575,6 @@ h1 {
   /* line 4, sass/components/_composition.scss */
   .composition__photo {
     width: 55%;
-    border-radius: 5px;
     box-shadow: 0 1.5rem 4rem rgba(0, 0, 0, 0.4);
     position: absolute;
     z-index: 10;
